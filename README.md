@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# <span style="color:#2E8B57">🌱 Rana Quraini's Growing Portfolio 🌱</span>
+# <span style="color:#2E8B57">🌱 Rana Quraini 🌱</span>
 
 [![Your Photo/Avatar](link/to/photo.png)](link/to/portfolio)
 
@@ -18,7 +18,6 @@
 
 - [🎯 About Me](#about-me)
 - [💻 Skills](#skills)
-- [✨ Projects](#projects)
 - [📬 Reach Out](#reach-out)
 
 ## 🎯 About Me
@@ -34,6 +33,11 @@ Welcome to my digital canvas! I'm an artist with a palette of technologies, pain
 - **Backend Development:**
   - Node.js, Express.js
   - Python, Django
+
+-**Web Development:
+- REST APIs, AJAX
+- Web Performance Optimization
+- Cross-browser Compatibility
 
 - **Database:**
   - MySQL, PostgreSQL, MongoDB
