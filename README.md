@@ -34,7 +34,7 @@ Welcome to my digital canvas! I'm an artist with a palette of technologies, pain
   - Node.js, Express.js
   - Python, Django
 
-- Web Development:
+- **Web Development:
 - REST APIs, AJAX
 - Web Performance Optimization
 - Cross-browser Compatibility
