@@ -5,7 +5,6 @@
 
 # <span style="color:#FF69B4">🌸 Rana Quraini 🌸</span>
 
-[![Rana Quraini's Avatar](link/to/avatar.png)](link/to/portfolio)
 
 <span style="font-size: 1.2em;">Crafting code and dreams with the soul of an artist. Let's make the world a more colorful and beautiful place, one line of artful code at a time! 🎀✨</span>
 
