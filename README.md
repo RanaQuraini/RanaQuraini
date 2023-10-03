@@ -16,11 +16,11 @@
 
 ## Table of Contents
 
-- [🌸 Artistic Intro](#artistic-intro)
+- [🌸 Intro](#artistic-intro)
 - [🎨 Palette of Skills](#palette-of-skills)
 - [💌 Connect and Create](#connect-and-create)
 
-## 🌸 Artistic Intro
+## 🌸 Intro
 
 Welcome to my creative sanctuary! I wield the brush of code and the palette of creativity, painting a more colorful and enchanting world through the pixels of technology. Let's create breathtaking masterpieces together! 🌈🖌️
 
