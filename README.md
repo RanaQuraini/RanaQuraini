@@ -6,7 +6,7 @@
 # <span style="color:#FF69B4">🌸 Rana Quraini 🌸</span>
 
 
-<span style="font-size: 1.2em;">Crafting code and dreams with the soul of an artist. Let's make the world a more colorful and beautiful place, one line of artful code at a time! 🎀✨</span>
+<span style="font-size: 1.2em;">Crafting code and dreams with the soul of an artist. Let's make the world a more colorful and beautiful place! 🎀✨</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ranaquraini)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green.svg)](https://github.com/ranaquraini)
